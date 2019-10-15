@@ -178,13 +178,6 @@ Cascading Style Sheets
 
 ***
 
-## Code Along
-![code_along](https://media.git.generalassemb.ly/user/19273/files/40c4fc00-3de4-11e9-94f7-6f779d726056)
-
-[Press Release](https://git.generalassemb.ly/berziiiii/FEWD-BOS-37/tree/master/Week_01/01_html_basics/starter_code/ga_press_release)
-
-***
-
 ### Additional HTML elements
 
 #### Block Elements
@@ -232,12 +225,6 @@ For more details, see [Block-level Element](https://developer.mozilla.org/en-US/
 - Use lowercase <strong>exclusively</strong> in HTML and CSS. The only exception should be in the DOCTYPE.
 - Always create a new folder for each exercise and don't co-mingle files.
 
-***
-
-### Lab
-![lab](https://media.git.generalassemb.ly/user/19273/files/250e2580-3de5-11e9-9d7c-356b23c70c24)
-
-[Cookie Recipe](https://git.generalassemb.ly/berziiiii/FEWD-BOS-37/tree/master/Week_01/01_html_basics/starter_code/cookie_recipe)
 
 ***
 
@@ -366,12 +353,6 @@ p {
 <strong>HEADS UP:</strong> The shorthand for font requires at least the font-family and font-size, and font-family must appear last.
 
 ***
-
-### Code Along
-![code_along](https://media.git.generalassemb.ly/user/19273/files/40c4fc00-3de4-11e9-94f7-6f779d726056)
-
-[CSS Basics](https://git.generalassemb.ly/berziiiii/FEWD-BOS-37/tree/master/Week_01/01_html_basics/starter_code/ga_press_release)
-
 
 ***
 
