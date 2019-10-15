@@ -1,14 +1,12 @@
 ![GeneralAssemb.ly](https://media.git.generalassemb.ly/user/19273/files/dd69e280-400c-11e9-9578-20ebfc4e5812)
 
-# FEWD-BOS-37
+# FEWD-JED
 
-### Class 1 - 3/4/2019
+### Class 1 -
 
 ***
 
 ### Objectives
-- Introductions
-- Course Overview
 - Review Git / Github
 - Review our Git process and submission of assignments
 - Set up our IDE's - Individual Development Environments
@@ -18,58 +16,6 @@
 
 ***
 
-### Introductions
-
-#### Hi, I'm Brian Berzellini!
-
-I'm a Lead Engineer with LevelUp, a GrubHub company, responsible for all Enterprise Web experiences for a wide range of merchants. Previously, I worked in the technology consulting and education industries as a full-stack engineer. Currently I manage client side development, feature architecture and implementation.
-
-Having experience as a former GA Web Development Immersive Instructor, I am well versed in taking complex and challenging topics and presenting them in a simple and understandable way. I'm my spare time I enjoy Skiing, long boarding and golfing.
-
-GA Bio - [Me](https://generalassemb.ly/instructors/brian-berzellini/9850)
-
-Email - berzelba@gmail.com
-
-LinkedIn - [Brian Berzellini](https://www.linkedin.com/in/brianberzellini/)
-
-Github - [berziiiii](https://git.generalassemb.ly/berziiiii)
-
-#### Ice Breakers
-
-1. What is your name?
-1. What do you do?
-1. Interesting fact about yourself OR If you were asked to cast any actor to play you, in the story of your life, who would if be?
-1. What do you want to get out of this course?
-
-***
-
-### Class Details
-
-##### Classroom Rules
-
-- Have a text editor installed - <strong>Sublime Text, Atom, VSCode, etc.</strong>
-- Have the latest version of <strong>Google Chrome installed</strong>
-- Work through all the <strong>Code Alongs</strong> and <strong>Lab</strong> exercises
-- Wifi: <strong>GA Guest</strong>
-- Password: <strong>yellowpencil</strong>
-
-##### Homework
-- You'll be presenting your homework periodically
-- If you're unable to complete your assignment, please inform me directly on slack
-- If you're having difficulty, reach out - I can help
-- You will be submitting your homework through Github - we will get to this
-
-
-##### Code of Conduct
-- Be kind
-- Be on time
-- Don't be afraid to fail
-- Give as much as you expect to get
-- Help others
-- There are no "dumb" questions here
-- Reach out for help
-
-***
 
 ### Git & Github
 
@@ -441,9 +387,3 @@ p {
 
 ```
 <strong>HEADS UP:</strong> No style tags are used!
-
-
-***
-## Exit Ticket
-
-[Today's Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScWVJt5GiGDqFF0DDnZ6N1mI-_MyoVi5A0Nfxer-2FjZSYFYA/viewform)
